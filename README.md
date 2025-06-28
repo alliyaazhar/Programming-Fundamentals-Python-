@@ -1,4 +1,4 @@
-# Programming Fundamentals – Assignments Repository
+# Programming Fundamentals – Assignments 
 
 This repository contains solutions to assignments completed for the Programming Fundamentals course as part of the BS Data Science program at IMSciences.
 
